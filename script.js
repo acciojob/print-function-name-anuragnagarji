@@ -1,9 +1,9 @@
 //your JS code here. If required.
-function Hello() {
-	alert("Hello");
+function functionName() {
+	alert("functionName");
 }
 function Acciojob() {
 	alert("Acciojob");
 }
-//Hello();
-Acciojob();
+functionName();
+//Acciojob();
