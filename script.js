@@ -5,3 +5,5 @@ function Hello() {
 function Acciojob() {
 	alert("Acciojob");
 }
+//Hello();
+Acciojob();
